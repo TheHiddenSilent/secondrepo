@@ -1,5 +1,3 @@
-# Project title
+# Friendship Application 
 
-## Project description
-
-lorem ipsum
+## First project for course
